@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"ru.demo.downpicandmus","c":"DownPicPlayMusic","l":"DownPicPlayMusic()","u":"%3Cinit%3E()"},{"p":"ru.demo.downpicandmus","c":"DownPicPlayMusic","l":"main(String[])","u":"main(java.lang.String[])"}];updateSearchResults();
